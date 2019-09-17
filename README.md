@@ -31,3 +31,7 @@
 |田|柾|國|
 
 :smile::smile::smile:
+
+![BTS](BTS.jpg "MAGIC SHOP")
+
+[![BTS](https://img.youtube.com/vi/d4WZRYmzEYw/0.jpg)](https://www.youtube.com/watch?v=d4WZRYmzEYw "BTS")
