@@ -24,3 +24,10 @@
 [高科大 在學學生](https://www.nkust.edu.tw/p/405-1000-5181,c2113.php)
 
 <https://www.nkust.edu.tw/p/405-1000-5181,c2113.php>
+
+|B    |T    |S    |
+|:----|:---:|----:|
+|金|南|俊|
+|田|柾|國|
+
+:smile::smile::smile:
