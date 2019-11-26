@@ -1,5 +1,5 @@
 interface Shape{
-    abstract void getArea(double n);
+    abstract double getArea();
 }
 class Rectangle implements Shape{
     double length,width;
@@ -7,7 +7,7 @@ class Rectangle implements Shape{
         length=l;
         width=w;
     }
-    public double getArea(){
+     public double getArea(){
         return length*width;
     }
     public String toString(double n){
@@ -16,7 +16,7 @@ class Rectangle implements Shape{
 }
 class Triangle implements Shape{
     double base,height;
-    public Tritangle(double b ,double h){
+    public Triangle(double b ,double h){
         base=b;
         height=h;
     }
@@ -27,11 +27,11 @@ class Triangle implements Shape{
         return "Triangle's area ="+n;
     }
 }
-public class HW2{
+public class Main{
     public static void main(String arg[]){
         Rectangle rec=new Rectangle(5,10);
-        System.out.println(rec.toString(rec.getArea));
+        System.out.println(rec.toString(rec.getArea()));
         Triangle tri=new Triangle(10,10);
-        System.out.println(tri.toString(tri.getArea));
+        System.out.println(tri.toString(tri.getArea()));
     }
 }
